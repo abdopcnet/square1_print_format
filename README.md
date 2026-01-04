@@ -1,5 +1,8 @@
 ### Square1 Print Format
 
+![Version](https://img.shields.io/badge/version-4.1.2026-blue)
+
+
 Square1 Print Format
 
 ### Installation
